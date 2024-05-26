@@ -1,2 +1,2 @@
-# Peter-s-Portfolio
+# Hotel Reservation Analysis
 Analytics Portfolio
