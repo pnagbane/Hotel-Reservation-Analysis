@@ -3,7 +3,8 @@
 ## Introduction
 This is a an SQL project on Hotel Reservation Analysis. The project is to use SQL to write queries and analyze the dataset to gain insights to answer crucial questions to help make data driven decisions. The dataset was provided by Mentorness where I am a Data Analyst Intern thereby demonstrating my skills in Data Analytics using SQL.
 ### Dataset Description 
-
+![](sql0001.png)
+---
 The dataset includes the following columns: 
 -  _Booking_ID:_ A unique identifier for each hotel reservation.
 -  _no_of_adults:_ The number of adults in the reservation.
@@ -46,55 +47,85 @@ To do this project, you need access to a SQL database management system. In this
 ## Analysis and Findings:
 
 ### Total Reservations:
+![](sql1.png)
+---
 The total reservations made is 700.
 
 ### Most Popular Meal:
+![](sql2.png)
+---
 The Most popular meal among the guest is the Meal Plan 1.
 
-### Average Price Per Room for reservations involving Children: 
+### Average Price Per Room for reservations involving Children:
+![](sql3.png)
+---
 Average price is $144.57
 
 ### Reservations for 2018:
+![](sql4.png)
+---
 Total reservations made in 2018 is 577
 
 ### Most commonly booked room type:
+![](sql5.png)
+---
 The most commonly booked room type is Room Type 1 with total reservations of 534.
 
 ### Weekend Reservations:
+![](sql6.png)
+---
 Weekend reservations is 383
 
 ### Reservations Lead Time:
+![](sql7.png)
+---
 The highest lead time is 443 while the lowest lead time is 0.
 
 ### Most Common Market Segment:
+![](sql8.png)
+---
 Online with Total Reservations of 518
 
 ### Confirmed Booking Status:
+![](sql9.png)
+---
 Total confirmed booking status is 493
 
 ### Reservations iinvolving Adults and Children accross all reservations:
+![](sql10.png)
+---
 -  Adults = 1316
 -  Children = 69
 
 ### Weekend nights with Children:
+![](sql11.png)
+---
 Average weekend nights with Children is 1. This implies in every weekend reservation, the guests includes children.
 
 ### Monthly Reservations:
+![](sql12.png)
+---
 -  Highest - October = 103 reservations
 -  Lowest  - January = 11 reservations  <br>
 
 There is more reservation during Autumn compared to Winter season.
 
 ### Average Weekend and Weekday nights spent by guests:
+![](sql13.png)
+---
 The guests prefer the Room Type 4 and 6.
 
 ### Most common room type and average price for reservations involving children:
+![](sql14.png)
+---
 -  Room Type 1 with the highest number of reservations has an average price of $123.12.
 -  Room Type 7 with the lowest number of reservations has an average price of $187.04 being the highest average price. <br>
 
 The number of reservations is not determinant to the price of room type.
 
 ### Market Segment that generates highest average price per room:
+![](sql15.png)
+---
 -  Online market segement with an average price per room of $112.26
   
 # Conclusion
