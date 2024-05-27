@@ -3,6 +3,7 @@
 ## Introduction
 This is a an SQL project on Hotel Reservation Analysis. The project is to use SQL to write queries and analyze the dataset to gain insights to answer crucial questions to help make data driven decisions. The dataset was provided by Mentorness where I am a Data Analyst Intern thereby demonstrating my skills in Data Analytics using SQL.
 ### Dataset Description 
+![](Sql001)
 The dataset includes the following columns: 
 -  _Booking_ID:_ A unique identifier for each hotel reservation.
 -  _no_of_adults:_ The number of adults in the reservation.
